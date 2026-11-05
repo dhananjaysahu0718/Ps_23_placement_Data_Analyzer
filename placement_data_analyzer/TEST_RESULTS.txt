@@ -1,0 +1,4 @@
+TC1 - Normal input: PASS
+TC2 - Boundary / one record: PASS
+TC3 - Invalid package values: PASS
+TC4 - Branch analysis: PASS
